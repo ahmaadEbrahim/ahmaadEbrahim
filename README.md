@@ -26,15 +26,17 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E44D26)&nbsp;
+![CSS](https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&color=563D7C)&nbsp;
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&color=C3002F)
+![Git](https://img.shields.io/badge/Treminal-Git-informational?style=flat&logo=git&color=C3002F)
+![GitHub](https://img.shields.io/badge/CBP-GitHub-05122A?style=flat&logo=GitHub&color=05122A)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![Database](https://img.shields.io/badge/-Database-05122A?style=flat&logo=Database)&nbsp;
 ![ASP](https://img.shields.io/badge/-ASP%20-05122A?style=flat&logo=asp)&nbsp;
