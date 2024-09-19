@@ -35,12 +35,6 @@
 ![GitHub](https://img.shields.io/badge/CBP-GitHub-05122A?style=flat&logo=GitHub&color=05122A)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![Database](https://img.shields.io/badge/-Database-05122A?style=flat&logo=Database)&nbsp;
-![ASP](https://img.shields.io/badge/-ASP%20-05122A?style=flat&logo=asp)&nbsp;
-
 
 
 
