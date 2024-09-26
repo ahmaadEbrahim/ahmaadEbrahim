@@ -26,14 +26,11 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E44D26)&nbsp;
-![CSS](https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&color=563D7C)&nbsp;
-![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&color=C3002F)
-![Git](https://img.shields.io/badge/Treminal-Git-informational?style=flat&logo=git&color=C3002F)
-![GitHub](https://img.shields.io/badge/CBP-GitHub-05122A?style=flat&logo=GitHub&color=05122A)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,visualstudio,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,jquery,linkedin,notion,npm,postman,ts" />
+</div>
 
 
 
